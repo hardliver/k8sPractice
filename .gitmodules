@@ -1,0 +1,9 @@
+[submodule "complex2"]
+	path = complex2
+	url = https://github.com/hardliver/multi-k8s.git
+[submodule "complex"]
+	path = complex
+	url = https://github.com/hardliver/multi-docker.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/hardliver/docker-react.git
